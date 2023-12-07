@@ -1,0 +1,12 @@
+{
+  "name": "@acme/source",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nx": "17.2.0-canary.20231207-b8d24e6",
+    "typescript": "^5.3.3"
+  }
+}
